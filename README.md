@@ -1,4 +1,4 @@
-# ORJAFLOW Music Downloader
+# ORJAFLOW Music Downloader 1.1.0
 
 Developed by Orjani Ayoub.
 
@@ -19,12 +19,14 @@ Python n'est pas nécessaire. FFmpeg est déjà dans l'installeur.
 1. Collez un lien de vidéo ou de playlist YouTube.
 2. Choisissez le format : MP3, M4A, OPUS ou FLAC.
 3. Choisissez le dossier de destination.
-4. Cliquez sur **Télécharger**, puis sur **Démarrer**.
+4. Cliquez sur **Télécharger**.
 5. Pour une playlist, les titres sont cochés. Décochez ceux que vous ne voulez pas. Ils sont enregistrés dans un sous-dossier au nom de la playlist.
 6. **Ensemble** (1 à 5) règle combien de titres partent en même temps.
-7. **Bibliothèque** lit les fichiers déjà enregistrés.
-8. **Historique** permet de réessayer un échec.
-9. **Paramètres** s'enregistrent tout seuls.
+7. Sur chaque carte : **Lire**, **Pause**, **Reprendre**, **Annuler**, **Réessayer**, **Dossier** ou **Retirer**.
+8. Le lecteur en bas lit le morceau, passe au précédent ou au suivant, règle le volume, l'aléatoire et la répétition.
+9. **Bibliothèque** cherche, trie, filtre et affiche les morceaux en liste ou en grille.
+10. **Historique** filtre les résultats et peut réessayer les échecs.
+11. **Paramètres** s'enregistrent tout seuls.
 
 ## À savoir
 
